@@ -1,0 +1,25 @@
+[INFO ] 2022-04-07 17:28:43.242 [main] DemoLog - Information
+[TRACE] 2022-04-07 17:28:43.360 [main] DemoLog - Tracking
+[INFO ] 2022-04-07 17:28:49.504 [main] DemoLog - Information
+[TRACE] 2022-04-07 17:28:49.505 [main] DemoLog - Tracking
+[TRACE] 2022-04-07 17:28:58.121 [main] DemoLog - Tracking
+[TRACE] 2022-04-07 17:28:58.122 [main] DemoLog - Tracking
+[INFO ] 2022-04-07 17:31:28.766 [main] DemoLog - Information
+[TRACE] 2022-04-07 17:31:28.906 [main] DemoLog - Tracking
+[INFO ] 2022-04-07 17:31:31.944 [main] DemoLog - Information
+[TRACE] 2022-04-07 17:31:31.945 [main] DemoLog - Tracking
+[TRACE] 2022-04-07 17:31:44.153 [main] DemoLog - Tracking
+[TRACE] 2022-04-07 17:31:44.153 [main] DemoLog - Tracking
+[INFO ] 2022-04-08 11:17:02.427 [main] DemoLog - Information
+[TRACE] 2022-04-08 11:17:02.620 [main] DemoLog - Tracking
+[INFO ] 2022-04-08 11:17:06.284 [main] DemoLog - Information
+[TRACE] 2022-04-08 11:17:06.284 [main] DemoLog - Tracking
+[TRACE] 2022-04-08 11:17:12.187 [main] DemoLog - Tracking
+[TRACE] 2022-04-08 11:17:12.188 [main] DemoLog - Tracking
+[INFO ] 2022-04-08 17:47:13.107 [main] DemoLog - Information
+[TRACE] 2022-04-08 17:47:13.250 [main] DemoLog - Tracking
+[INFO ] 2022-04-08 17:47:17.686 [main] DemoLog - Information
+[TRACE] 2022-04-08 17:47:17.686 [main] DemoLog - Tracking
+[TRACE] 2022-04-08 17:47:23.258 [main] DemoLog - Tracking
+[TRACE] 2022-04-08 17:47:23.259 [main] DemoLog - Tracking
+[ERROR] 2022-04-08 17:47:27.355 [main] DemoLog - Error Message
